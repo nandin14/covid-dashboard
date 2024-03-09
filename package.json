@@ -1,5 +1,6 @@
 {
-  "name": "onlyreact",
+  "homepage":"https://nandin14.github.io/covid-dashboard/",
+  "name": "covid-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
